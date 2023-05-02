@@ -1,13 +1,15 @@
 #h1{
     text-align: center;
-    font-size: 60px;
+    font-size: 40px;
+    margin-right: 500px;
+    margin-left: 100px;
 }
 
-.container {
+/* .container {
     display: flex;
     justify-content: center;
     
-  }
+  } */
   
   .btn {
     margin-right: 10px;
@@ -15,6 +17,7 @@
     padding: 8px;
     border-radius: 5px;
     font-weight: bold;
+    margin-top: 30px;
   }
 
   .head{
@@ -25,14 +28,33 @@
     font-size: 30px;
     font-style: italic;
     font-weight: 700;
-    margin-left: 70px;
-    padding-top: 50px;
+    margin-left: 100px;
+    padding-top: 10px;
+    margin-top: 30px;
     color: rgb(88, 88, 88);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     
   }
 
-  #txt{
-    margin-left: 70px;
-    padding-bottom: 50px;
+  .txt{
+    margin-left: 100px;
+    padding-top: 10px;
+    float:left ;
+    width: 50%;
+  }
+
+  #pic{
+    width: 400px;
+    height: auto;
+    /* margin-left: 13px; */
+    /* margin-right: 120px; */
+    margin-bottom: 50px;
+    
+  }
+
+  .nav{
+    display:flex;
   }
   
