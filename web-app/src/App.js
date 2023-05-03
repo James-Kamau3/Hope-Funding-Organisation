@@ -29,16 +29,41 @@ function App() {
   "title":"Community.",
   "description":"Help business startups get funding for their business and get their business to the top level." 
 },
-{
-  "imageUrl":"https://thumbs.dreamstime.com/b/first-aid-kit-medicine-charity-relief-work-medical-exam-place-winning-assistance-59999460.jpg",
-  "imageAlt":"An example image",
-  "title":"Medication",
-  "description":"Help people get the medication they need for there health." 
-},
+
 {
   "imageUrl":"https://thumbs.dreamstime.com/b/glass-jar-words-charity-heart-concept-accumulating-money-donations-saving-social-medical-help-volunteers-135369144.jpg",
   "imageAlt":"An example image",
   "title":"Causes and Charity.",
+  "description":"Help business startups get funding for their business and get their business to the top level." 
+},
+{
+  "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
+  "imageAlt":"An example image",
+  "title":"Community.",
+  "description":"Help business startups get funding for their business and get their business to the top level." 
+},
+{
+  "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
+  "imageAlt":"An example image",
+  "title":"Community.",
+  "description":"Help business startups get funding for their business and get their business to the top level." 
+},
+{
+  "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
+  "imageAlt":"An example image",
+  "title":"Community.",
+  "description":"Help business startups get funding for their business and get their business to the top level." 
+},
+{
+  "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
+  "imageAlt":"An example image",
+  "title":"Community.",
+  "description":"Help business startups get funding for their business and get their business to the top level." 
+},
+{
+  "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
+  "imageAlt":"An example image",
+  "title":"Community.",
   "description":"Help business startups get funding for their business and get their business to the top level." 
 }
 ]
