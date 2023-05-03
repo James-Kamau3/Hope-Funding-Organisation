@@ -1,5 +1,8 @@
 import './App.css';
 import Footer from './Components/ Footer';
+import Header from './Components/Header';
+import About from './Components/About';
+
 
 
 function App() {
@@ -39,9 +42,11 @@ function App() {
   "description":"Help business startups get funding for their business and get their business to the top level." 
 }
 ]
-  //console.log(cardObject.imageUrl)
+ 
   return (
  <div>
+  <Header />
+  <About cardObject={cardObject}/>
   <Footer />
  </div>
     
