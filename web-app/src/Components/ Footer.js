@@ -3,24 +3,61 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      <div className="container">
-        <div className="row">
-          <div className="col-md-6">
-            <h3>About Us</h3>
-            <p>We are a Hope Funding organization dedicated to helping the less fortunate.</p>
-          </div>
-          <div className="col-md-6">
-            <h3>Contact Us</h3>
-            <p>Email: info@hopefunding.org</p>
-            <p>Phone: 254-7224-5344</p>
-          </div>
+    <div class="contact-box">
+        <div class="contact-left">
+            <h3>Sent your request</h3>
+            <form>
+                <div class="input-row">
+                    <div class="input group">
+                        <label>Name</label>
+                        <input type="" placeholder="John Doe" />
+                    </div>
+                    <div class="input group">
+                        <label>Phone</label>
+                        <input type="" placeholder="+254780897675" />
+                    </div>
+                </div>
+                <div class="input-row">
+                    <div class="input group">
+                        <label>Email</label>
+                        <input type="" placeholder="emailgoogle@gmail.com" />
+                    </div>
+                    <div class="input group">
+                        <label>Subject</label>
+                        <input type="" placeholder="Product name" />
+                    </div>
+                </div>
+                <label>Message</label>
+                <textarea rows="5" placeholder="Your Message"></textarea>
+
+                <button type="submit">Submit</button>
+            </form>
+
+
         </div>
-        <div className="row">
-          <div className="col-md-12">
-            <p>&copy; 2023 Hope Funding. All Rights Reserved.</p>
-          </div>
+        <div class="contact-right">
+            <h3>Reach Us</h3>
+
+            <table>
+                <tr>
+                    <td>Email</td>
+                    <td>emailgoogle@gmail.com</td>
+                </tr>
+                <tr>
+                    <td>Phone</td>
+                    <td>+254780897675</td>
+                </tr>
+                <tr>
+                    <td>Address</td>
+                    <td>Sarit Plaza, 5th floor<br />
+                        Karuna Road, Westlands, Nairobi.</td>
+                </tr>
+            </table>
+
+
+
         </div>
-      </div>
+    </div>
     </footer>
   );
 };
