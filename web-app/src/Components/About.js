@@ -42,7 +42,7 @@ function About() {
           <button id={card.id} onClick={handleClick}>
             Donate
           </button>
-          <p>
+          <p id='prog'>
             Progress: {progress[card.id] ? progress[card.id].toFixed(2) : 0}% ($
             {progress[card.id] ? (progress[card.id] / 100) * 100000 : 0} out of $
             100,000)
