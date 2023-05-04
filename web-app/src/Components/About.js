@@ -4,6 +4,7 @@ function About() {
   const [cardObject, setCardObject] = useState([]);
   const [progress, setProgress] = useState({});
 
+
   function handleClick(event) {
     event.preventDefault();
     const amount = prompt('Enter Amount To Donate');
@@ -33,7 +34,7 @@ function About() {
     <div className="Cards">
       {cardObject.map((card) => (
         <div key={card.id}>
-          {card.title}
+           <h3>{card.title}</h3>
           <br />
           {card.description}
           <br />
