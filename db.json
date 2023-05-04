@@ -1,53 +1,48 @@
 {
     "education": {
-        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "videoUrl": "https://www.youtube.com/watch?v=WAEzFGOa9f0&ab_channel=AveMariaUniversity",
         "title": "Education for Underprivileged Children",
         "description": "Meet Maya, a bright young girl from a low-income family who dreams of becoming a doctor. With the help of our organization, Maya has access to quality education and resources that will help her achieve her goals. Your donation can help children like Maya have a brighter future and break the cycle of poverty."
     },
     "businessStartups": {
-        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "videoUrl": "https://www.youtube.com/watch?v=Dz-xmwsXNQo&ab_channel=MuslimCharity",
         "title": "Supporting Small Business Owners",
         "description": "Meet John, a hard-working entrepreneur who has always dreamed of owning his own business. With our support, John was able to secure funding, access training and mentorship, and turn his dream into a reality. Your donation can help more aspiring business owners like John achieve their goals and contribute to their communities."
     },
     "community": {
-        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "videoUrl": "https://www.youtube.com/watch?v=6cVpddBZJqg&ab_channel=ZinduaProductionsInt%27l",
         "title": "Building Stronger Communities",
         "description": "Meet Sarah, a community leader who is passionate about creating positive change in her neighborhood. With the help of our organization, Sarah was able to organize a neighborhood clean-up event and bring together members of her community to make a difference. Your donation can help us support more leaders like Sarah and empower communities to thrive."
     },
     "womenEmpowerment": {
-        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "videoUrl": "https://www.youtube.com/watch?v=r4lnbOFhZqg&ab_channel=IndiadonatesanInitiativeofDevPro",
         "title": "Empowering Women and Girls",
         "description": "Meet Fatima, a young girl who has faced numerous obstacles in her life but refuses to give up on her dreams. With the support of our organization, Fatima has access to education, mentorship, and resources that will help her achieve her goals and break down barriers for other girls like her. Your donation can help us empower more women and girls and create a more equal world for all."
     },
     "orphans": {
-        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "videoUrl": "https://www.youtube.com/watch?v=ulDtCfOQSM0&ab_channel=INSIDEPRIMEPAGE",
         "title": "Supporting Orphans and Vulnerable Children",
         "description": "Meet David, a young boy who has lost both of his parents and faces significant challenges in his life. With the help of our organization, David has access to food, shelter, and education that will help him build a better future for himself. Your donation can help us provide support and care for more orphans and vulnerable children like David."
     },
     "wildlifeConservation": {
-        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "videoUrl": "https://www.youtube.com/watch?v=RcbaOk1jrhM&ab_channel=GameWildlifeConsTrst",
         "title": "Protecting Wildlife and the Environment",
         "description": "Meet Emma, a wildlife conservationist who is dedicated to protecting endangered species and their habitats. With the help of our organization, Emma is able to conduct research, educate communities, and advocate for policies that will help protect the planet. Your donation can help us support more conservationists like Emma and preserve our natural world for future generations."
     },
     "youthEmpowerment": {
-        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "videoUrl": "https://www.youtube.com/watch?v=MurMAzZZxrQ&ab_channel=TV47Kenya",
         "title": "Empowering Young People",
         "description":"Meet Fatima, a bright and ambitious young woman who dreams of starting her own business. With the support of our organization, Fatima has access to mentorship, training, and funding opportunities that will help her achieve her goals. Your donation can help us support more young people like Fatima and create a brighter future for them and their communities."
     },
     "causesAndCharity": {
-        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "videoUrl": "https://www.youtube.com/watch?v=M3nnwdGUnh4&ab_channel=Incitement",
         "title": "Supporting Charitable Causes",
         "description": "Meet James, a passionate advocate for causes that are close to his heart. With the support of our organization, James is able to fundraise, organize events, and spread awareness about issues that matter. Your donation can help us support more activists like James and make a difference in the world."
     },
     "foodDonation": {
-        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "videoUrl": "https://www.youtube.com/watch?v=Y-CTVrUj1DY&ab_channel=DavudAkhundzada",
         "title": "Fighting Hunger and Food Insecurity",
         "description": "Meet Maria, a single mother who has struggled to provide for her family. With the help of our organization, Maria has access to nutritious meals and resources that will help her and her family thrive. Your donation can help us support more families like Maria's and fight against hunger and food insecurity."
-    },
-    "drainageFacilities": {
-        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "title": "Improving Drainage and Sanitation",
-        "description": "Meet Ahmed, a community member who has experienced the negative impacts of poor drainage and sanitation firsthand. With the support of our organization, Ahmed is able to participate in community initiatives that improve drainage and sanitation in his neighborhood. Your donation can help us support more projects like this and create healthier, safer communities for everyone."
     }
   }
   

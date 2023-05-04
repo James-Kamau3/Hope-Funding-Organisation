@@ -39,18 +39,27 @@ function App() {
   "imageUrl":"https://www.shutterstock.com/image-vector/perfect-logo-women-empowerment-health-260nw-1633211929.jpg",
   "imageAlt":"An example image",
   "title":"Women Empowerment.",
+<<<<<<< HEAD
   "description":"Help business startups get funding for their business and get their business to the top level."
+=======
+  "description":"Help business startups get funding for their business and get their business to the top level." 
+>>>>>>> refs/remotes/origin/main
 },
 {
   "imageUrl":"https://images.unsplash.com/photo-1509099836639-18ba1795216d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y2hhcml0eXxlbnwwfHwwfHw%3D&w=1000&q=80",
   "imageAlt":"An example image",
   "title":"Orphans.",
+<<<<<<< HEAD
   "description":"Help business startups get funding for their business and get their business to the top level."
+=======
+  "description":"Help business startups get funding for their business and get their business to the top level." 
+>>>>>>> refs/remotes/origin/main
 },
 {
   "imageUrl":"https://c8.alamy.com/comp/2G3BDF7/non-exclusive-a-magnificent-herd-of-handcrafted-life-size-elephants-roaming-in-the-royal-parks-made-using-lantana-camara-a-natural-plant-material-2G3BDF7.jpg",
   "imageAlt":"An example image",
   "title":"Wildlife Conservation.",
+<<<<<<< HEAD
   "description":"Help business startups get funding for their business and get their business to the top level."
 },
 {
@@ -58,6 +67,21 @@ function App() {
   "imageAlt":"An example image",
   "title":"Food Donation.",
   "description":"Help business startups get funding for their business and get their business to the top level."
+=======
+  "description":"Help business startups get funding for their business and get their business to the top level." 
+},
+{
+  "imageUrl":"https://us.123rf.com/450wm/alessandrobiascioli/alessandrobiascioli1905/alessandrobiascioli190500007/123690449-young-friends-stacking-hands-outdoor-happy-millennial-people-having-fun-joining-and-celebrating.jpg?ver=6",
+  "imageAlt":"An example image",
+  "title":"Youth Empowerment.",
+  "description":"Help business startups get funding for their business and get their business to the top level." 
+},
+{
+  "imageUrl":"https://media.istockphoto.com/id/1218623873/photo/donation-box-with-food-on-old-wooden-background.jpg?s=612x612&w=0&k=20&c=h0Q3HODN-EI_27CPM2w8XE8FCuJ48UbLZNKowDJtisE=",
+  "imageAlt":"An example image",
+  "title":"Food Donation.",
+  "description":"Help business startups get funding for their business and get their business to the top level." 
+>>>>>>> refs/remotes/origin/main
 }
 ]
   return (
