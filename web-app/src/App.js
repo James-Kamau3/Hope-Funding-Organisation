@@ -26,7 +26,7 @@ function App() {
 {
   "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
   "imageAlt":"An example image",
-  "title":"Community.",
+  "title":"Community Development.",
   "description":"Help business startups get funding for their business and get their business to the top level." 
 },
 
