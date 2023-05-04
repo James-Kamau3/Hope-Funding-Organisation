@@ -5,7 +5,8 @@ import Footer from './Components/ Footer';
 
 
 
-function App() {
+
+function App({cardObject}) {
 
  
   return (

@@ -1,125 +1,76 @@
 {
-<<<<<<< HEAD
-    "education": {
-        "videoUrl": "https://www.youtube.com/watch?v=WAEzFGOa9f0&ab_channel=AveMariaUniversity",
-        "title": "Education for Underprivileged Children",
-        "description": "Meet Maya, a bright young girl from a low-income family who dreams of becoming a doctor. With the help of our organization, Maya has access to quality education and resources that will help her achieve her goals. Your donation can help children like Maya have a brighter future and break the cycle of poverty."
+    "cardObject" :
+    [
+        {     
+            "id": 1,
+        "imageUrl":"https://plus.unsplash.com/premium_photo-1671070290610-aad0f9b06eef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=736&q=80",
+      "imageAlt":"An example image",
+      "title":"Education and Learning",
+      "description":"Help children get education.Support them by providing funding for their education." },
+    {
+        "id": 2,
+      "imageUrl":"https://thumbs.dreamstime.com/b/startup-circle-process-business-concept-60485119.jpg",
+      "imageAlt":"An example image",
+      "title":"Business Startups.",
+      "description":"Help business startups get funding for their business and get their business to the top level." 
     },
-    "businessStartups": {
-        "videoUrl": "https://www.youtube.com/watch?v=Dz-xmwsXNQo&ab_channel=MuslimCharity",
-        "title": "Supporting Small Business Owners",
-        "description": "Meet John, a hard-working entrepreneur who has always dreamed of owning his own business. With our support, John was able to secure funding, access training and mentorship, and turn his dream into a reality. Your donation can help more aspiring business owners like John achieve their goals and contribute to their communities."
+    {
+        "id": 3,
+      "imageUrl":"https://www.shutterstock.com/image-photo/empowerment-enable-improvement-progress-concept-260nw-433228525.jpg",
+      "imageAlt":"An example image",
+      "title":"Youth Empowerment.",
+      "description":"Help business startups get funding for their business and get their business to the top level." 
     },
-    "community": {
-        "videoUrl": "https://www.youtube.com/watch?v=6cVpddBZJqg&ab_channel=ZinduaProductionsInt%27l",
-        "title": "Building Stronger Communities",
-        "description": "Meet Sarah, a community leader who is passionate about creating positive change in her neighborhood. With the help of our organization, Sarah was able to organize a neighborhood clean-up event and bring together members of her community to make a difference. Your donation can help us support more leaders like Sarah and empower communities to thrive."
+    {
+        "id": 4,
+      "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
+      "imageAlt":"An example image",
+      "title":"Community.",
+      "description":"Help business startups get funding for their business and get their business to the top level." 
     },
-    "womenEmpowerment": {
-        "videoUrl": "https://www.youtube.com/watch?v=r4lnbOFhZqg&ab_channel=IndiadonatesanInitiativeofDevPro",
-        "title": "Empowering Women and Girls",
-        "description": "Meet Fatima, a young girl who has faced numerous obstacles in her life but refuses to give up on her dreams. With the support of our organization, Fatima has access to education, mentorship, and resources that will help her achieve her goals and break down barriers for other girls like her. Your donation can help us empower more women and girls and create a more equal world for all."
+    
+    {
+        "id": 5,
+      "imageUrl":"https://thumbs.dreamstime.com/b/glass-jar-words-charity-heart-concept-accumulating-money-donations-saving-social-medical-help-volunteers-135369144.jpg",
+      "imageAlt":"An example image",
+      "title":"Causes and Charity.",
+      "description":"Help business startups get funding for their business and get their business to the top level." 
     },
-    "orphans": {
-        "videoUrl": "https://www.youtube.com/watch?v=ulDtCfOQSM0&ab_channel=INSIDEPRIMEPAGE",
-        "title": "Supporting Orphans and Vulnerable Children",
-        "description": "Meet David, a young boy who has lost both of his parents and faces significant challenges in his life. With the help of our organization, David has access to food, shelter, and education that will help him build a better future for himself. Your donation can help us provide support and care for more orphans and vulnerable children like David."
+    {
+        "id": 6,
+      "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
+      "imageAlt":"An example image",
+      "title":"Community.",
+      "description":"Help business startups get funding for their business and get their business to the top level." 
     },
-    "wildlifeConservation": {
-        "videoUrl": "https://www.youtube.com/watch?v=RcbaOk1jrhM&ab_channel=GameWildlifeConsTrst",
-        "title": "Protecting Wildlife and the Environment",
-        "description": "Meet Emma, a wildlife conservationist who is dedicated to protecting endangered species and their habitats. With the help of our organization, Emma is able to conduct research, educate communities, and advocate for policies that will help protect the planet. Your donation can help us support more conservationists like Emma and preserve our natural world for future generations."
+    {
+        "id": 7,
+      "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
+      "imageAlt":"An example image",
+      "title":"Community.",
+      "description":"Help business startups get funding for their business and get their business to the top level." 
     },
-    "youthEmpowerment": {
-        "videoUrl": "https://www.youtube.com/watch?v=MurMAzZZxrQ&ab_channel=TV47Kenya",
-        "title": "Empowering Young People",
-        "description":"Meet Fatima, a bright and ambitious young woman who dreams of starting her own business. With the support of our organization, Fatima has access to mentorship, training, and funding opportunities that will help her achieve her goals. Your donation can help us support more young people like Fatima and create a brighter future for them and their communities."
+    {
+        "id": 8,
+      "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
+      "imageAlt":"An example image",
+      "title":"Community.",
+      "description":"Help business startups get funding for their business and get their business to the top level." 
     },
-    "causesAndCharity": {
-        "videoUrl": "https://www.youtube.com/watch?v=M3nnwdGUnh4&ab_channel=Incitement",
-        "title": "Supporting Charitable Causes",
-        "description": "Meet James, a passionate advocate for causes that are close to his heart. With the support of our organization, James is able to fundraise, organize events, and spread awareness about issues that matter. Your donation can help us support more activists like James and make a difference in the world."
+    {
+        "id": 9,
+      "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
+      "imageAlt":"An example image",
+      "title":"Community.",
+      "description":"Help business startups get funding for their business and get their business to the top level." 
     },
-    "foodDonation": {
-        "videoUrl": "https://www.youtube.com/watch?v=Y-CTVrUj1DY&ab_channel=DavudAkhundzada",
-        "title": "Fighting Hunger and Food Insecurity",
-        "description": "Meet Maria, a single mother who has struggled to provide for her family. With the help of our organization, Maria has access to nutritious meals and resources that will help her and her family thrive. Your donation can help us support more families like Maria's and fight against hunger and food insecurity."
+    {
+        "id": 10,
+      "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
+      "imageAlt":"An example image",
+      "title":"Community.",
+      "description":"Help business startups get funding for their business and get their business to the top level." 
     }
-  }
-  
-=======
-"cardObject" :
-[
-    {     
-        "id": 1,
-    "imageUrl":"https://plus.unsplash.com/premium_photo-1671070290610-aad0f9b06eef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=736&q=80",
-  "imageAlt":"An example image",
-  "title":"Education and Learning",
-  "description":"Help children get education.Support them by providing funding for their education." },
-{
-    "id": 2,
-  "imageUrl":"https://thumbs.dreamstime.com/b/startup-circle-process-business-concept-60485119.jpg",
-  "imageAlt":"An example image",
-  "title":"Business Startups.",
-  "description":"Help business startups get funding for their business and get their business to the top level." 
-},
-{
-    "id": 3,
-  "imageUrl":"https://www.shutterstock.com/image-photo/empowerment-enable-improvement-progress-concept-260nw-433228525.jpg",
-  "imageAlt":"An example image",
-  "title":"Youth Empowerment.",
-  "description":"Help business startups get funding for their business and get their business to the top level." 
-},
-{
-    "id": 4,
-  "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
-  "imageAlt":"An example image",
-  "title":"Community.",
-  "description":"Help business startups get funding for their business and get their business to the top level." 
-},
-
-{
-    "id": 5,
-  "imageUrl":"https://thumbs.dreamstime.com/b/glass-jar-words-charity-heart-concept-accumulating-money-donations-saving-social-medical-help-volunteers-135369144.jpg",
-  "imageAlt":"An example image",
-  "title":"Causes and Charity.",
-  "description":"Help business startups get funding for their business and get their business to the top level." 
-},
-{
-    "id": 6,
-  "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
-  "imageAlt":"An example image",
-  "title":"Community.",
-  "description":"Help business startups get funding for their business and get their business to the top level." 
-},
-{
-    "id": 7,
-  "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
-  "imageAlt":"An example image",
-  "title":"Community.",
-  "description":"Help business startups get funding for their business and get their business to the top level." 
-},
-{
-    "id": 8,
-  "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
-  "imageAlt":"An example image",
-  "title":"Community.",
-  "description":"Help business startups get funding for their business and get their business to the top level." 
-},
-{
-    "id": 9,
-  "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
-  "imageAlt":"An example image",
-  "title":"Community.",
-  "description":"Help business startups get funding for their business and get their business to the top level." 
-},
-{
-    "id": 10,
-  "imageUrl":"https://media.istockphoto.com/id/668218790/photo/group-of-friends-huddle-in-rear-view-together.jpg?b=1&s=170667a&w=0&k=20&c=T9JQ_3k2bDRRMO29JFEimr9knc24x7-ovRALVswzIBE=",
-  "imageAlt":"An example image",
-  "title":"Community.",
-  "description":"Help business startups get funding for their business and get their business to the top level." 
-}
-]
-}
->>>>>>> 7964a8a (Implementing Donate Function)
+    ]
+    }
+    
