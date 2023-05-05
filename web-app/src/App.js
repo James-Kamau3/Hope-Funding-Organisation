@@ -5,12 +5,12 @@ import Footer from './Components/ Footer';
 
 
 
-
 function App({cardObject}) {
 
  
   return (
   <div>
+   
     <Header />
     <About cardObject={cardObject}/>
   <Footer/>
