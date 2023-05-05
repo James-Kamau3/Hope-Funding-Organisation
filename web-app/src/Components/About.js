@@ -16,7 +16,7 @@ function About() {
   }
 
   useEffect(() => {
-    fetch('http://localhost:8001/cardObject')
+    fetch('https://my-json-server.typicode.com/James-Kamau3/Hope-Funding-Organisation/cardObject')
       .then((res) => res.json())
       .then((data) => {
         // initialize the progress state for each card
